@@ -20,9 +20,42 @@
   display: block;
 }
 
+@media screen and (max-width: 1280px) {
+
+			.rbcalogo {
+				padding-bottom: 2em;
+			}
+		}
+
 .rbcapic {
 	width: 40%;
 }
+
+@media screen and (max-width: 980px) {
+
+			.rbcapic {
+				width: 60%;
+				padding-bottom: 3em;
+			}
+		}
+
+@media screen and (max-width: 736px) {
+
+			.rbcapic {
+				width: 60%;
+				padding-bottom: 0em;
+				margin-bottom: -1em;
+			}
+		}
+
+@media screen and (max-width: 480px) {
+
+			.rbcapic {
+				width: 90%;
+				padding-bottom: 0em;
+				margin-bottom: -1em;
+			}
+		}
 
 /* Reset */
 
