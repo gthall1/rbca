@@ -2996,7 +2996,7 @@
 
 		.wrapper > .inner {
 			margin: 0 auto;
-			width: 60em;
+			width: 75%;
 		}
 
 		.wrapper.style1 {
@@ -3558,6 +3558,11 @@
 		.wrapper.style3 {
 			background-color: #eeefef;
 			color: #555;
+		}
+
+		.wrapper.style56 {
+			background-color: #B6D6CC;
+			color: #fff;
 		}
 
 			.wrapper.style3 input, .wrapper.style3 select, .wrapper.style3 textarea {
@@ -5325,10 +5330,10 @@
 
 	#main > header {
 		padding: 10em 0 8em 0 ;
-		background-image: -moz-linear-gradient(top, rgba(160,167,232,0.25), rgba(86,153,158,0.35)), -moz-linear-gradient(top, rgba(0,0,0,0.75), rgba(0,0,0,0.75)), url("../../images/banner.jpg");
-		background-image: -webkit-linear-gradient(top, rgba(160,167,232,0.25), rgba(86,153,158,0.35)), -webkit-linear-gradient(top, rgba(0,0,0,0.75), rgba(0,0,0,0.75)), url("../../images/banner.jpg");
-		background-image: -ms-linear-gradient(top, rgba(160,167,232,0.25), rgba(86,153,158,0.35)), -ms-linear-gradient(top, rgba(0,0,0,0.75), rgba(0,0,0,0.75)), url("../../images/banner.jpg");
-		background-image: linear-gradient(top, rgba(160,167,232,0.25), rgba(86,153,158,0.35)), linear-gradient(top, rgba(0,0,0,0.75), rgba(0,0,0,0.75)), url("../../images/banner.jpg");
+		background-image: -moz-linear-gradient(top, rgba(160,167,232,0.25), rgba(86,153,158,0.35)), -moz-linear-gradient(top, rgba(0,0,0,0.55), rgba(0,0,0,0.55)), url("../../images/banner.jpg");
+		background-image: -webkit-linear-gradient(top, rgba(160,167,232,0.25), rgba(86,153,158,0.35)), -webkit-linear-gradient(top, rgba(0,0,0,0.55), rgba(0,0,0,0.55)), url("../../images/banner.jpg");
+		background-image: -ms-linear-gradient(top, rgba(160,167,232,0.25), rgba(86,153,158,0.35)), -ms-linear-gradient(top, rgba(0,0,0,0.55), rgba(0,0,0,0.55)), url("../../images/banner.jpg");
+		background-image: linear-gradient(top, rgba(160,167,232,0.25), rgba(86,153,158,0.35)), linear-gradient(top, rgba(0,0,0,0.55), rgba(0,0,0,0.55)), url("../../images/banner.jpg");
 		background-attachment: fixed, fixed, fixed;
 		background-position: center 100%, center 100%, center 100%;
 		background-repeat: repeat, repeat, no-repeat;
