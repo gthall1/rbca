@@ -2713,11 +2713,11 @@
 		}
 
 	ul.labeled-icons > li {
-		border-left-color: rgba(144, 144, 144, 0.25);
+		border-left-color: rgba(255, 255, 255, 1);
 	}
 
 		ul.labeled-icons > li > .icon:before {
-			color: #65bfad;
+			color: #fff;
 		}
 
 	ul.checklist li:before {
