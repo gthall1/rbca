@@ -5400,9 +5400,9 @@
 /* Footer */
 
 	#footer {
-		background-color: #eeefef;
+		background-color: #2C3E50;
 		color: #555;
-		padding: 4em 0;
+		padding: 6em 0em 1em 0em;
 	}
 
 		#footer input, #footer select, #footer textarea {
@@ -5410,7 +5410,7 @@
 		}
 
 		#footer a {
-			color: #222;
+			color: #bbb;
 		}
 
 		#footer strong, #footer b {
