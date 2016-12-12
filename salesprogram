@@ -1,0 +1,120 @@
+<!DOCTYPE HTML>
+
+<html>
+  <head>
+    <title>Sales Intern - Southeast | Rock Bottom Creative Agency</title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
+    <link rel="stylesheet" href="assets/css/main.css" />
+    <link rel="stylesheet" href="assets/css/magnific-popup.css" />
+    <!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
+    <!--[if lte IE 9]><link rel="stylesheet" href="assets/css/ie9.css" /><![endif]-->
+  </head>
+  <body>
+    <div id="page-wrapper">
+
+      <!-- Header -->
+        <header id="header">
+          <h1><a href="home"><span>RBCA</span></a></h1>
+          <a href="#nav"><span>Menu</span></a>
+        </header>
+
+      <!-- Nav -->
+        <nav id="nav">
+          <ul class="links">
+            <li><a href="home">Home</a></li>
+            <li><a href="portfolio">Portfolio</a></li>
+            <li><a href="careers">Careers</a></li>
+            <!-- <li><a href="elements.html">Elements</a></li> -->
+          </ul>
+          <ul class="actions vertical">
+            <!--  <li><a href="#" class="button fit special">Sign Up</a></li>  -->
+            <li><a href="home#five" class="button fit">Contact</a></li>
+          </ul>
+        </nav>
+
+      <!-- Main -->
+        <article id="main3">
+          <header>
+            <h2>Sales Program - Southeast</h2>
+            <p>We hope you'll join us</p>
+          </header>
+          <section id="whoweare" class="wrapper">
+            <div class="inner">
+
+              <h3>Sales Program</h3>
+              <h4>About the Role</h4>
+              <p>We are looking to bring on an ambitous new team member to join our sales team as an intern in the Southeast US region.  This role typically coincides with a university student's spring semester although enrollment in a school or sales program is not required.  This is a paid position because we do not believe that anyone should ever work for free.  Depending on exact location the person will report to either the regional sales manager or to the director.  You will be treated, and respected like a full-time member of our team, and we will provide all of our resources to help you grow both in order to exceed sales goals and to prepare for your career.  Outstanding performers during the program will have a job offer waiting for them before they put on a cap and gown.</p>
+              <h4>Experience</h4>
+              <p>Look, we've all been there, and we certainly don't expect you to have tons of experience yet, so please don't break your back trying to fill out your resume with faux sales experience.  If you have some, great!  Include it.  But we also value other experience that provides an insight into your work ethic, attitude, and ability to get shit done!  Worked in the service industry waiting tables?  Great, tell us about it - shows you have busted your butt in customer facing roles.  Member of a sports team?  Awesome, shows you know how to sacrifice, juggle schedules, and operate as part of a high functioning team.  Please tell us why you have what it takes to overcome obstacles, smash your goals, and be a top contributor on our team.  We promise we'll look at your resume if you include it, but not for very long.</p>
+              <h4>How to Apply</h4>
+              <p>Cover letter + resume is pretty boring.  Here's how to really get our attention: tell us why you're the ideal candidate for this team.  Tell us why your background, as well as what you're looking for in a career may be compatible with our culture.  Tell us a story about a time you did something innovative to achieve your goals.  Ever do something clever so you could afford that pricey spring break trip?  Maybe you figured out a way to only go to class one day per week and still make good grades.  Maybe you sold more Cutco knives than anyone on the planet last summer? We want to hear about it!  Tell us what makes you tick - what are you passionate about?  Why are you different?  Why choose you instead of the next person?</p>
+              <p>There's lots of options, so choose whatever suits you best.  Impress us, make us laugh, or maybe make us cry, but just make us do something - make us want to meet you.  We can't wait; we're really looking forward to it!</p>
+
+              <p>If you've made it this far, we want to hear from you.  Please send your resume, or cover letter, or funny joke, or old love letters, or whatever puts your best foot forward to <strong>hello@rockbottomcreativeagency.com</strong> and we'll get back to you shortly.</p>
+
+
+
+              <hr />
+
+            </div>
+          </section>
+
+
+        </article>
+
+      <!-- Footer -->
+        <footer id="footer">
+          <div class="copyright">
+            <ul>
+              <li><a href="home">Home</a></li>
+              <li><a href="home#two">Services</a></li>
+              <li><a href="portfolio">Portfolio</a></li>
+              <li><a href="careers">Careers</a></li>
+              <li><a href="home#five">Contact</a></li>
+            </ul>
+          </div>
+          <div class="copyright">
+            <p>Birmingham  &bull;  New York City  &bull;  Los Angeles  &bull;  Whistler</p>
+          </div>
+        </footer>
+
+    </div>
+
+    <script src="assets/js/jquery.magnific-popup.min.js"></script>
+
+      <script>
+      (function($) {
+        $('.image-link').magnificPopup({
+          type:'image',
+          gallery:{
+            enabled:true
+          }
+        });
+      })(jQuery);
+      </script>
+
+
+      <script>
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+        ga('create', 'UA-58032053-6', 'auto');
+        ga('send', 'pageview');
+
+      </script>
+
+    <!-- Scripts -->
+      <script src="assets/js/skel.min.js"></script>
+      <script src="assets/js/jquery.min.js"></script>
+      <script src="assets/js/jquery.scrollex.min.js"></script>
+      <script src="assets/js/jquery.scrolly.min.js"></script>
+      <script src="assets/js/util.js"></script>
+      <!--[if lte IE 8]><script src="assets/js/ie/respond.min.js"></script><![endif]-->
+      <script src="assets/js/main.js"></script>
+
+  </body>
+</html>

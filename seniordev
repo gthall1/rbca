@@ -1,0 +1,147 @@
+<!DOCTYPE HTML>
+
+<html>
+  <head>
+    <title>Senior Front End Developer | Rock Bottom Creative Agency</title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
+    <link rel="stylesheet" href="assets/css/main.css" />
+    <link rel="stylesheet" href="assets/css/magnific-popup.css" />
+    <!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
+    <!--[if lte IE 9]><link rel="stylesheet" href="assets/css/ie9.css" /><![endif]-->
+  </head>
+  <body>
+    <div id="page-wrapper">
+
+      <!-- Header -->
+        <header id="header">
+          <h1><a href="home"><span>RBCA</span></a></h1>
+          <a href="#nav"><span>Menu</span></a>
+        </header>
+
+      <!-- Nav -->
+        <nav id="nav">
+          <ul class="links">
+            <li><a href="home">Home</a></li>
+            <li><a href="portfolio">Portfolio</a></li>
+            <li><a href="careers">Careers</a></li>
+
+          </ul>
+          <ul class="actions vertical">
+            <!--  <li><a href="#" class="button fit special">Sign Up</a></li>  -->
+            <li><a href="home#five" class="button fit">Contact</a></li>
+          </ul>
+        </nav>
+
+      <!-- Main -->
+        <article id="main3">
+          <header>
+            <h2>Senior Front End Developer</h2>
+            <h4>NYC or LA</h4>
+            <p>Start Date: Immediately</p>
+          </header>
+          <section id="whoweare" class="wrapper">
+            <div class="inner">
+
+              <h3>Senior Front End Developer</h3>
+              <h4>What We're Up To</h4>
+              <p>RBCA is a product-driven creative agency that works with a range of startups, small businesses, and big brands to create compelling, successful, industry-leading apps and websites. Our mission is to help entrepreneurs, whether solo or part of a thousand-person company, build and scale their business. We help people perfect and realize their visions for digital products. Other developers just churn out what a client asks for, while we strive to truly understand the problems our clients are aiming to solve and stop at nothing to build solid products that present the optimal solution. We are a lean, tenacious machine powered by the sharpest, most passionate people we could find.</p>
+              <h4>What You'll be Doing</h4>
+              <ul>
+                <li>Your design skills and talent will be focused primarily on iOS or Android native application design.</li>
+                <li>Your skills will extend to creative for Web, UX, branding, and iconography work.</li>
+                <li>You are confident working with Strategists and Design team peers to create project architecture documents including Sitemaps, Workflows, Schematics, Wireframes, and Blueprints.</li>
+                <li>You understand and have worked in an agile team environment.</li>
+                <li>You will be a source of inspiration internally and externally, always overachieving and driving the RBCA benchmark for quality.</li>
+                <li>You will collaborate with the RBCA Development team to deliver projects and ensure your vision is carried through to final product launch.</li>
+                <li>You’ll work with the Product team to ensure the best user experience solutions are being produced.</li>
+                <li>You’ll be actively involved in securing new business leads via creating pitch decks, networking, or supplying direct leads.</li>
+              </ul>
+              <h4>The Ideal Candidate</h4>
+              <ul>
+                <li>5+ years acting in a creative role and at least 2 years working in a creative agency environment.</li>
+                <li>An exceptional portfolio of shipped products, containing examples of highly usable  and beautiful software that solves problems you can effectively articulate.</li>
+                <li>Read Apple’s Human Interface Guidelines or Google’s Material Guidelines thoroughly enough to spot when something’s out of place, and when to break the mould.</li>
+                <li>Strong abilities with Sketch, Illustrator, and Photoshop.</li>
+                <li>Deep knowledge of modern iOS, Android, web, and OS X interface conventions.</li>
+                <li>Has experience in some of the following areas: CRM, team workflow, activity feeds, visualizations/BI/analytics, native iOS mobile, email design, and responsive web.</li>
+                <li>Is exceptionally detailed with excellent oral and visual communication skills, and is comfortable in client-facing situations, primarily when presenting your own or others’ creative work.</li>
+                <li>Likes to play with motion and inject alternative creative solutions to solve problems.</li>
+              </ul>
+              <h4>Perks and Salary</h4>
+              <ul>
+                <li>21 days holiday (excluding bank holidays)</li>
+                <li>Annual performance bonuses</li>
+                <li>Biannual meetups/trips abroad</li>
+                <li>27" iMac to work from when in the office</li>
+                <li>Your very own Apple watch (sports edition after successful 3-month probationary period)</li>
+                <li>Monthly team dinners and activities</li>
+              </ul>
+
+              <p>If you've made it this far, we want to hear from you.  Please send your resume and website to <strong>hello@rockbottomcreativeagency.com</strong> and we'll get back to you shortly.</p>
+
+
+
+              <hr />
+
+            </div>
+          </section>
+
+
+        </article>
+
+      <!-- Footer -->
+        <footer id="footer">
+          <div class="copyright">
+            <ul>
+              <li><a href="home">Home</a></li>
+              <li><a href="home#two">Services</a></li>
+              <li><a href="portfolio">Portfolio</a></li>
+              <li><a href="careers">Careers</a></li>
+              <li><a href="home#five">Contact</a></li>
+            </ul>
+          </div>
+          <div class="copyright">
+            <p>Birmingham  &bull;  New York City  &bull;  Los Angeles  &bull;  Whistler</p>
+          </div>
+        </footer>
+
+    </div>
+
+    <script src="assets/js/jquery.magnific-popup.min.js"></script>
+
+      <script>
+      (function($) {
+        $('.image-link').magnificPopup({
+          type:'image',
+          gallery:{
+            enabled:true
+          }
+        });
+      })(jQuery);
+      </script>
+
+
+      <script>
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+        ga('create', 'UA-58032053-6', 'auto');
+        ga('send', 'pageview');
+
+      </script>
+
+    <!-- Scripts -->
+      <script src="assets/js/skel.min.js"></script>
+      <script src="assets/js/jquery.min.js"></script>
+      <script src="assets/js/jquery.scrollex.min.js"></script>
+      <script src="assets/js/jquery.scrolly.min.js"></script>
+      <script src="assets/js/util.js"></script>
+      <!--[if lte IE 8]><script src="assets/js/ie/respond.min.js"></script><![endif]-->
+      <script src="assets/js/main.js"></script>
+
+  </body>
+</html>
