@@ -8,6 +8,7 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
 		<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
 		<link rel="stylesheet" href="assets/css/main.css" />
+		<link rel="stylesheet" href="assets/css/animation.css" />
 		<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
 		<!--[if lte IE 9]><link rel="stylesheet" href="assets/css/ie9.css" /><![endif]-->
 	</head>
@@ -64,6 +65,61 @@
 							<p>You've worked hard to build your business and make it a success. We want to help you showcase that hard work and attention to detail online to attract new customers and grow your business.  We work with you every step of the way to build a website and online presence that you can be proud of.</p>
 						</header>
 					</div>
+				</section>
+
+
+				<section id="banner2">
+
+<!-- 1st row hover working -->
+					<div class="half">
+						<div class="image01">
+              <img src="images/featured1.jpg" alt="">
+              <div class="ovrly"></div>
+              <div class="buttons">
+                  <!--  <a href="#" class="fa fa-link"></a>
+                  <a href="#" class="fa fa-search"></a>  -->
+                  <img class="fa" src="images/notologo.png">
+              </div>
+	          </div>
+		      </div>
+
+					<div class="half">
+						<div class="image101">
+              <img src="images/featured2.jpg" alt="">
+              <div class="ovrly"></div>
+              <div class="buttons">
+                  <!--  <a href="#" class="fa fa-link"></a>
+                  <a href="#" class="fa fa-search"></a>  -->
+                  <img class="fa" src="images/allison.png">
+              </div>
+	          </div>
+		      </div>
+
+	<!-- 2nd row -->
+		      <div class="half">
+						<div class="image201">
+              <img src="images/featured3.jpg" alt="">
+              <div class="ovrly"></div>
+              <div class="buttons">
+                  <!--  <a href="#" class="fa fa-link"></a>
+                  <a href="#" class="fa fa-search"></a>  -->
+                  <img class="fa" src="images/salamone.png">
+              </div>
+	          </div>
+		      </div>
+
+					<div class="half">
+						<div class="image301">
+              <img src="images/featured4.jpg" alt="">
+              <div class="ovrly"></div>
+              <div class="buttons">
+                  <!--  <a href="#" class="fa fa-link"></a>
+                  <a href="#" class="fa fa-search"></a>  -->
+                  <img class="fa" src="images/wigs.png">
+              </div>
+	          </div>
+		      </div>
+
 				</section>
 
 		<!-- Two -->
