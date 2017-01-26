@@ -37,13 +37,15 @@
 
 			<!-- Banner -->
 				<section id="banner">
-					<div class="inner">
-						<span class="rbcalogo"><img src="images/logo.png" class="rbcapic" alt="" /></span>
-						<h2 style="text-transform: none;">What will we <strong>CREATE</strong> <br /> together?</h2>
-						<ul class="actions">
-							<li><a href="#one" class="button scrolly">Learn More</a></li>
-						</ul>
-					</div>
+          <div class="centering">
+  					<div class="inner">
+  						<span class="rbcalogo"><img src="images/logo.png" class="rbcapic" alt="" /></span>
+  						<h2 style="text-transform: none;">What will we <strong>CREATE</strong> <br /> together?</h2>
+  						<ul class="actions">
+  							<li><a href="#one" class="button scrolly">Learn More</a></li>
+  						</ul>
+  					</div>
+          </div>
 				</section>
 
 			<!-- One -->
