@@ -13,7 +13,7 @@
 
     <!-- Header -->
       <header id="header">
-        <h1><strong><a href="home">Rock Bottom Creative Agency</a></strong></h1>
+        <h1><strong><a href="/">Rock Bottom Creative Agency</a></strong></h1>
 
       </header>
 
@@ -185,11 +185,11 @@
       <footer id="footer">
         <div class="copyright">
           <ul>
-            <li><a href="home">Home</a></li>
-            <li><a href="home#two">Services</a></li>
+            <li><a href="/">Home</a></li>
+            <li><a href="/#two">Services</a></li>
             <li><a href="portfolio">Portfolio</a></li>
             <li><a href="careers">Careers</a></li>
-            <li><a href="home#five">Contact</a></li>
+            <li><a href="/#five">Contact</a></li>
           </ul>
         </div>
         <div class="copyright">
