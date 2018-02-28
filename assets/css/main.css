@@ -5585,6 +5585,121 @@
 		}
 
 
+	.new_noto {
+		width: 100%;
+	}
+
+	.gobig {
+		width: 100% !important;
+	}
+
+	.fifty {
+		width: 50% !important;
+	}
+
+	.wrapper > .gobig {
+		width: 100% !important;
+	}
+
+	.noto_article {
+		padding-left: 170px;
+	}
+
+	.airshare_article {
+		padding-left: 150px;
+	}
+
+	.salamonearticle {
+		padding-left: 75px;
+	}
+
+	.airshare {
+		margin-left: 75px;
+	}
+
+
+/*  proper responsive reveiw on portfolio page */
+
+	@media screen and (max-width: 1080px) {
+
+		.noto_article {
+			padding-left: 80px;
+		}
+
+		.airshare_article {
+			padding-left: 90px;
+		}
+
+		.salamonearticle {
+			padding-left: 50px;
+		}
+
+	}
+
+	@media screen and (max-width: 780px) {
+
+		.noto_article {
+			padding-left: 0px;
+		}
+
+		.airshare_article {
+			padding-left: 0px;
+		}
+
+		.salamonearticle {
+			padding-left: 0px;
+		}
+
+		.notoleft {
+			margin-left: 55px;
+		}
+
+		.fifty {
+			width: 80% !important;
+		}
+
+		.nopads {
+			padding-left: 0;
+			padding-right: 0;
+		}
+
+		.airshare {
+			margin-left: 55px;
+		}
+
+	}
+
+	@media screen and (max-width: 480px) {
+
+		.nopads {
+			padding-left: 2rem;
+			padding-right: 2rem;
+		}
+
+		.fifty {
+			width: 100% !important;
+		}
+
+		.notoleft {
+			margin-left: 30px;
+		}
+
+		.airshare {
+			margin-left: 30px;
+		}
+
+	}
+
+
+
+
+
+
+
+
+
+
+
 
 
 	.wrapper.style90 {
@@ -5803,7 +5918,7 @@
 
 			.half {
 				min-height: 25vh;
-		    width: 50%;
+			    width: 50%;
 			}
 
 
@@ -5812,12 +5927,28 @@
 
 			.half {
 				min-height: 20vh;
-		    width: 100%;
-		    display: block;
-		    margin: auto;
-			}
+			    width: 100%;
+			    display: block;
+			    margin: auto;
+				}
 
 		}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
